@@ -10,4 +10,6 @@ There is no doubt that a review is one of critical factors for manufacturs or se
 - 5 star review for Paid Review(Vine Program) is about 32% while Unpaid Reviews are about 52% 
 
 ##  Summary
-Total paid reviewas are only 0.56% of unpaid reviews 
+Total paid reviewas are only 0.56% of unpaid reviews, total data set is too low comapre with unpaid review. In addition, 5 star review rate for Vin program is only 39% while uppaid reviews are 52%. So just campring 5 star review ratio, Vin
+Vin program 5 Star reviews ratio is lower than unpaid, but possibly 4, 3 or 2 star reviews can be higher. So comparing All rated reivew would make the analysis stronger. 
+
