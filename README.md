@@ -10,6 +10,6 @@ There is no doubt that a review is one of critical factors for manufacturs or se
 - 5 star review for Paid Review(Vine Program) is about 32% while Unpaid Reviews are about 52% 
 
 ##  Summary
-Total 5 star paid reviews are 15 while upaid 5 star reviews are 4332, which means Vin program review has only 0.56% on 5 star reviews. In addition, 5 Start review ratio on Vin program is 32% while unpaid reviews are 52%. So I can state that Vin program has very limited impact on reviews on Watch data.
+Total 5 star paid reviews are 15 while unpaid 5 star reviews are 4332, which means Vin program review has only 0.56% on 5 star reviews. In addition, 5 Start review ratio on Vin program is 32% while unpaid reviews are 52%. So I can state that Vin program has very limited impact on reviews on Watch Review data.
 If I can run total number and ratio for other ratings such as 4, 3, 2 and 1 star reviews I can get much solid conculsion for Vin program.
 
